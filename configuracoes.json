@@ -4,7 +4,7 @@
         "volume_musica": 0.3,
         "volume_efeitos": 0.3,
         "som_ativado": true,
-        "musica_ativada": false
+        "musica_ativada": true
     },
     "interface": {
         "tema": "escuro",
@@ -13,7 +13,7 @@
         "tooltips_ativados": true
     },
     "jogo": {
-        "dificuldade_padrao": "Fácil",
+        "dificuldade_padrao": "Difícil",
         "penalidade_erro": 3.0,
         "tempo_limite": 0,
         "mostrar_dicas": true,
