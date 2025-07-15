@@ -1,2 +1,4 @@
-*.json
+ranking_solo.json
+palavras_usadas.json
+palavras_multiplayer.json
 game_log.txt

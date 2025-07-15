@@ -1,4 +1,4 @@
-#!/home/rr/Downloads/Desafio_de_Rivais/game/bin/python
+#!/home/rr/Workspace/Personal/github/desafio_de_rivais/game/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

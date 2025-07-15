@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/rr/Downloads/Desafio_de_Rivais/game
+set -gx VIRTUAL_ENV /home/rr/Workspace/Personal/github/desafio_de_rivais/game
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

@@ -1,0 +1,31 @@
+{
+    "audio": {
+        "volume_geral": 0.7,
+        "volume_musica": 0.5,
+        "volume_efeitos": 0.7,
+        "som_ativado": true,
+        "musica_ativada": true
+    },
+    "interface": {
+        "tema": "escuro",
+        "tamanho_fonte": "normal",
+        "animacoes_ativadas": true,
+        "tooltips_ativados": true
+    },
+    "jogo": {
+        "dificuldade_padrao": "Médio",
+        "penalidade_erro": 3.0,
+        "tempo_limite": 0,
+        "mostrar_dicas": true,
+        "usar_palavras_comuns": true,
+        "modo_padrao": "solo"
+    },
+    "ranking": {
+        "manter_historico": true,
+        "max_entradas_ranking": 10,
+        "mostrar_ranking_apos_jogo": true
+    },
+    "perfil": {
+        "nome_padrao": "JOGADOR"
+    }
+}
